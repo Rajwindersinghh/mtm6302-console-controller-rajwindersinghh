@@ -7,3 +7,5 @@ Go to your git bash: and enter command git clone https://github.com/Rajwindersin
 
 
 ![image](https://github.com/Rajwindersinghh/mtm6302-console-controller-rajwindersinghh/assets/133885650/8f8c949b-0a63-4aca-b86b-c979a108983a)
+
+![caoture2](https://github.com/Rajwindersinghh/mtm6302-console-controller-rajwindersinghh/assets/133885650/947b4297-ae44-41a0-b192-4a438b90ec66)
